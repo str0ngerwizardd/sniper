@@ -23,7 +23,7 @@ HEADERS = {"Authorization": USER_TOKEN}
 KEYWORDS = ["dreamspace", "cyberspace", "glitched", "glitch", "jester", "singularity"]
 DISCORD_SESSION = "ADD-SESSION-TOKEN-HERE"
 APP_VERSION = "1.0.0"
-UPDATE_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/your_script.py"
+UPDATE_URL = "https://raw.githubusercontent.com/str0ngerwizardd/sniper/refs/heads/main/sniper.py"
 AUTO_UPDATE_ON_START = True
 
 # Dictionary to track the last message ID for each channel
